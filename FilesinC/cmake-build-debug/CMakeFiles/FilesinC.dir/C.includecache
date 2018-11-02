@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Henry Van/Desktop/Computer Science/Lessons/1st Semester/C- C++/Projects/FilesinC/main.c
+stdio.h
+-
+io.h
+-
+ftsiface.h
+-
+
